@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Project Path="PulseDesk.API/PulseDesk.API.csproj" />
+  <Project Path="PulseDesk.Business/PulseDesk.Business.csproj" />
+  <Project Path="PulseDesk.Core/PulseDesk.Core.csproj" />
+  <Project Path="PulseDesk.DataAccess/PulseDesk.DataAccess.csproj" />
+  <Project Path="PulseDesk.Entities/PulseDesk.Entities.csproj" />
+</Solution>
